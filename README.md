@@ -9,7 +9,7 @@
 ### 命令行下clone工程:
  - `git clone https://github.com/quanqinle/SmartSpecDemo.git`
 
-### `Android Studio`打开:
+### 使用`Android Studio`打开工程:
  - Import/Open this project with Android Studio
 
 ### 编写测试用例：
@@ -17,4 +17,4 @@
 
 ### 执行Unit Tests:
   - Change the Build Variant Test Artifact to `Unit Tests`
-  - Right click a unit test located in `src/test` and click test
+  - Right click a unit test located in `app/src/test` and click test
