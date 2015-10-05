@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">微专业移动自动化测试</string>
+    <string name="action_settings">设置</string>
+
+    <string name="img_des">图片文章demo</string>
+    <string name="btn_like">喜欢</string>
+    <string name="btn_unlike">取消喜欢</string>
+    <string name="like_num">100</string>
+    <string name="txt_like_num">人喜欢</string>
+    <string name="btn_start_new_activity">启动一个新Activity</string>
+    <string name="like_number">1000</string>
+    <string name="title_activity_second">SecondActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+</resources>
