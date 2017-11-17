@@ -13,7 +13,7 @@
  - Import/Open this project with Android Studio
 
 ### 编写测试用例：
- - Follow the lessons on [网易云课堂微专业](http://mooc.study.163.com/smartSpec/detail/51001.htm) [备份链接2]http://mooc.study.163.com/course/1000112018)
+ - Follow the lessons on [网易云课堂微专业](http://mooc.study.163.com/smartSpec/detail/51001.htm)  、[备份链接2](http://mooc.study.163.com/course/1000112018)
 
 ### 执行Unit Tests:
   - Change the Build Variant Test Artifact to `Unit Tests`
