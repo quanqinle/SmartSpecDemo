@@ -10,11 +10,11 @@
  - `git clone https://github.com/quanqinle/SmartSpecDemo.git`
 
 ### 使用`Android Studio`打开工程:
- - Import/Open this project with Android Studio
+ - 使用Android Studio打开或导入工程
 
 ### 编写测试用例：
- - Follow the lessons on [网易云课堂微专业](http://mooc.study.163.com/smartSpec/detail/51001.htm)  、[备份链接2](http://mooc.study.163.com/course/1000112018)
+ - 欢迎大家学习由我讲解的课程 [网易云课堂微专业](http://mooc.study.163.com/smartSpec/detail/51001.htm)  、[备份链接2](http://mooc.study.163.com/course/1000112018)
 
 ### 执行Unit Tests:
-  - Change the Build Variant Test Artifact to `Unit Tests`
-  - Right click a unit test located in `app/src/test` and click test
+  - 更改Build Variant Test Artifact到`Unit Tests`
+  - 在`app/src/test`中右键点击一个用例，并执行
