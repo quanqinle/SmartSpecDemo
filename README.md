@@ -16,5 +16,5 @@
  - 欢迎大家学习由我讲解的课程 [网易云课堂微专业](http://mooc.study.163.com/smartSpec/detail/51001.htm)  、[备份链接2](http://mooc.study.163.com/course/1000112018)
 
 ### 执行Unit Tests:
-  - 更改Build Variant Test Artifact到`Unit Tests`
-  - 在`app/src/test`中右键点击一个用例，并执行
+ - 更改Build Variant Test Artifact到`Unit Tests`  
+ - 在`app/src/test`中右键点击一个用例，并执行
